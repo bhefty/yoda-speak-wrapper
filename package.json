@@ -14,6 +14,9 @@
   "license": "ISC",
   "homepage": "http://yoda-speak-wrapper.herokuapp.com/api/",
   "dependencies": {
-    "express": "^4.15.3"
+    "dotenv": "^4.0.0",
+    "es6-promise": "^4.1.1",
+    "express": "^4.15.3",
+    "isomorphic-fetch": "^2.2.1"
   }
 }
