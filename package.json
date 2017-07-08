@@ -1,4 +1,18 @@
 {
+  "name": "yoda-speak-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for Yoda-Speak API to return translation in JSON format.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bhefty/yoda-speak-wrapper.git"
+  },
+  "author": "Bill Hefty",
+  "license": "ISC",
+  "homepage": "http://yoda-speak-wrapper.herokuapp.com/api/",
   "dependencies": {
     "express": "^4.15.3"
   }
